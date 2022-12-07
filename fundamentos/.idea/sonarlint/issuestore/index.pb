@@ -9,3 +9,17 @@ V
 &src/main/kotlin/fundamentos/funcoes.kt,6/f/6f903d26437960787d1cd8ee9a01a03c07e31609
 X
 (src/main/kotlin/fundamentos/variaveis.kt,0/8/082ffa0a3bf6e860892fdab30dcb2fe3f8e0bffd
+U
+%src/main/kotlin/fundamentos/IfElse.kt,2/5/257a208e5fb26f44b679a8d5b90ef3eb230b0303
+]
+-src/main/kotlin/fundamentos/return_funcoes.kt,3/8/381f456c6fea67c4426505d35d43a31135793d3d
+Y
+)src/main/kotlin/fundamentos/repeticoes.kt,7/2/724300a1336f0667ad6179f6427ceb969faaa1ae
+]
+-src/main/kotlin/fundamentos/estrutura_when.kt,3/7/376dc4eba83f7daeaa9afb14483ea97114a16341
+Y
+)src/main/kotlin/fundamentos/nullsafety.kt,d/9/d96ece517f7444010a29bae07c4f0536858d558e
+Z
+*src/main/kotlin/fundamentos/collections.kt,0/5/05c5250f55f3041f71b5f8335c237860da879921
+^
+.src/main/kotlin/fundamentos/companionObject.kt,2/2/22e45e7255f0201f091b9f90e93ecdf48fe6ccdc
